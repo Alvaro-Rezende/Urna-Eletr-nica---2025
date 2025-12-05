@@ -1,0 +1,5 @@
+José da Silva,73,PTB,MG,F
+Maria do Carmo,21,PCB,SP,F
+Pedro de Azevedo,37,PTB,MG,S
+Paulo da Cunha,15,PXB,MG,P
+Emília Santos,12,PCT,MG,G
